@@ -254,14 +254,10 @@ ________________________________________________________________________________
 | 169 | [RavoucsRavenRun](https://github.com/Nishitbaria/GameSphere/tree/f6eb21a7a72b0fbdd61ea025d931177610192853/SinglePlayer%20-%20Games/Ravoucs%20Raven%20Run) |
 | 170 | [Car Racer](https://github.com/GameSphere-MultiPlayer/GameSphere/tree/main/SinglePlayer%20-%20Games/Car-Racer/Car-Racer-Vanilla-JS-main/index.html) |
 | 171 | [Chinese_Checkers](https://github.com/GameSphere-MultiPlayer/GameSphere/tree/main/SinglePlayer%20-%20Games/Chinese_Checkers) |
-| 172 | [Chinese_Checkers](https://github.com/GameSphere-MultiPlayer/GameSphere/tree/main/SinglePlayer%20-%20Games/Chinese_Checkers) |
-|173| [PicPuzz](https://github.com/Shuchita33/GameSphere/tree/main/SinglePlayer%20-%20Games/PicPuzz)|
+| 172 | [PicPuzz](https://github.com/Shuchita33/GameSphere/tree/main/SinglePlayer%20-%20Games/PicPuzz)|
+| 173 | [Othello](https://github.com/GameSphere-MultiPlayer/GameSphere/tree/main/SinglePlayer%20-%20Games/othello)|
 | 174 | [Highway Race](https://github.com/GameSphere-MultiPlayer/GameSphere/tree/main/SinglePlayer%20-%20Games/Highway_Race) |
 | 175 | [Stacker](https://github.com/GameSphere-MultiPlayer/GameSphere/tree/main/SinglePlayer%20-%20Games/Stacker) |
-
-
-
-
 
 
 
